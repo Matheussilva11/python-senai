@@ -1,0 +1,5 @@
+print('Olá, mundo ') 
+print('Bom dia')
+print('Boa tarde')
+print ('Boa noite')
+print ('Nada como um dia após o outro')
